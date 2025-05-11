@@ -4,11 +4,11 @@
 _# Cloud-Based Web Application Deployment on AWS
 
 **Group Members:**
-*   [Ruhail Rizwan 21i-2462]
-*   [Hannan Irfan 21K-4394]
+*   Ruhail Rizwan 21i-2462
+*   Hannan Irfan 21K-4934
 
-**Course:** [Cloud Computing]
-**Instructor:** [Dr. Qaisar Ali]
+**Course:** Cloud Computing
+**Instructor:** Dr. Qaisar Ali
 
 
 ## Project Overview
