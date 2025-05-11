@@ -1,4 +1,10 @@
-# Elastic Beanstalk Files
-.elasticbeanstalk/*
+node_modules
+npm-debug.log
+Dockerfile
+.dockerignore
 .git
 .gitignore
+.env       # IMPORTANT: Do not include .env in the Docker image!
+README.md
+# Add any other local development files or IDE folders
+.vscode
